@@ -1,4 +1,4 @@
-/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\]/*
  * Copyright (C) 2019 Moez Bhatti <moez.bhatti@gmail.com>
  *
  * This file is part of QKSMS.
